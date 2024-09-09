@@ -8,4 +8,4 @@ This is the remote for it, and I believe it uses a rolling code, though I’m no
 ![image](https://github.com/user-attachments/assets/bd62c232-dbb6-493f-855d-1b40dba9eb94)
 
 
-**Please note, I am not responsible for any misuse or unauthorized transmission of this signal.**
+**Please note that this information is provided for educational purposes only. I am not responsible for any misuse or unauthorized transmission of this signal. Please don’t be a skid.**
